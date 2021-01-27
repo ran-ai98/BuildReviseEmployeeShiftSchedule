@@ -1,5 +1,5 @@
 # Create and Revise Employee (Nurse) Shift Schedule 
-# 创建和调整员工（护士）轮班时间表
+# 创建和动态修订员工（护士）轮班时间表
 
 Building a schedule for employees can be an extremely complex optimization problem in which managers must balance employee preferences against scheduling requirements. In this project, we use a CSP model to model the problem and a new CSP solver to optimize over these competing scheduling and preference needs.
 
